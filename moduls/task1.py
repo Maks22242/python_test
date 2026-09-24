@@ -8,6 +8,8 @@ def rev_str(str):
 
 str = input("Enter a string: ")
 print(rev_str(str))
+str2 = input("Enter another string: ")
+print(rev_str(str2))
 
 
 
